@@ -50,7 +50,7 @@ export default {
       seen: false,
       iseen: false,
       loading: false,
-      avatar: "https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg",
+      avatar: "https://cdn.jsdelivr.net/gh/tdouguo/img/avatar.png",
       images_url: {}
     }
   },
